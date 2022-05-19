@@ -1,8 +1,10 @@
-#Created by subzone | zakaria guenfoudi
+#Created by subzone 
 
 # Este script consiste en poder configurar el servicio DHCPD de manera mas sencilla
 
 #INSTALACION
+
+Entrar en ROOT
 
 bash install.sh
 
